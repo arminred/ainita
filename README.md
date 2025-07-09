@@ -1,2 +1,2 @@
 # ainita
-Tnx to ainita.net
+Tnx to https://ainita.net
